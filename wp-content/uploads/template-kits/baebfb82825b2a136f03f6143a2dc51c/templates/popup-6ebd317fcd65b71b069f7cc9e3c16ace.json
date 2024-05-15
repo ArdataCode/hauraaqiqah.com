@@ -1,0 +1,229 @@
+{
+    "version": "0.4",
+    "title": "Popup",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": true,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "7bdc708c",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 400
+                },
+                "gap": "no",
+                "layout": "full_width",
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "4b52b502",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "background_color": "#000000",
+                        "background_image": {
+                            "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/ban11.jpg",
+                            "id": 204
+                        },
+                        "background_position": "top center",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "11",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "11",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6806e6ab",
+                            "settings": {
+                                "title": "Happy Holidays!",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Arizonia",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "564df15a",
+                            "settings": {
+                                "editor": "<p>The season only comes once per year. Relax and celebrate with a professionally prepared meal.\u00a0<\/p>",
+                                "align": "center",
+                                "text_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Raleway",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "265746de",
+                            "settings": {
+                                "text": "Tell Me More",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Raleway",
+                                "button_text_color": "#ffffff",
+                                "background_color": "#ff5b5b",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6f788579",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "11",
+                            "right": "11",
+                            "bottom": "11",
+                            "left": "11",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "7",
+                            "right": "7",
+                            "bottom": "7",
+                            "left": "7",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1d3fd3d3",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 287,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb8.jpg"
+                                    },
+                                    {
+                                        "id": 288,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb9.jpg"
+                                    },
+                                    {
+                                        "id": 285,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb6.jpg"
+                                    },
+                                    {
+                                        "id": 286,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb7.jpg"
+                                    },
+                                    {
+                                        "id": 277,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb1.jpg"
+                                    },
+                                    {
+                                        "id": 281,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb2.jpg"
+                                    },
+                                    {
+                                        "id": 282,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb3.jpg"
+                                    },
+                                    {
+                                        "id": 283,
+                                        "url": "https:\/\/wp.envatoextensions.com\/kit-56\/wp-content\/uploads\/sites\/59\/2018\/08\/thumb4.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "slides_to_show": "1",
+                                "image_stretch": "yes",
+                                "navigation": "none",
+                                "pause_on_hover": "no",
+                                "effect": "fade",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "-7",
+                                    "right": "-7",
+                                    "bottom": "-7",
+                                    "left": "-7",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "px",
+            "size": 648
+        },
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "border_radius": {
+            "unit": "px",
+            "size": 11
+        },
+        "overlay_background_color": "rgba(255,255,255,0.48)"
+    }
+}

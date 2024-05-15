@@ -1,0 +1,512 @@
+{
+    "RPT": {
+        "ScanTime": "6.148 sec.",
+        "ScanFile": "20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_scan.json",
+        "ScanCreated": "2023-03-03 23:49:57",
+        "ScanPath": "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/backups-dup-pro\/tmp\/20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_scan.json"
+    },
+    "ARC": {
+        "Size": "235.74MB",
+        "DirCount": "2,531",
+        "FileCount": "14,376",
+        "FullCount": "16,907",
+        "USize": 247196327,
+        "UDirCount": 2531,
+        "UFileCount": 14376,
+        "UFullCount": 16907,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/.opcache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/.tmb",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/ai1wm-backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/backups-dup-lite",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/backups-dup-pro",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/backups-dup-pro",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/backupwordpress",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/bps-backup",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/cache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/content\/cache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/contents\/cache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/infinitewp\/backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/managewp\/backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/old-cache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/updraft",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/backup-guard",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/snapshots",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/sucuri",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/wp-clone",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/wfcache",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/wishlist-backup",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/wpvividbackups",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/.htaccess",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/.user.ini",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/php.ini",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/web.config",
+            "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": [],
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Warn",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": true,
+            "HasNotImportableSites": false,
+            "HasFilteredCoreFolders": false,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": 0,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": [
+            {
+                "id": 1,
+                "domain": "hauraaqiqah.com",
+                "path": "\/",
+                "blogname": "Haura Aqiqah : Jasa Aqiqah Terbaik &amp; Terpercaya, Insyaallah Amanah",
+                "blog_prefix": "wp_",
+                "filteredTables": [],
+                "adminUsers": [
+                    {
+                        "ID": "1",
+                        "user_login": "admin",
+                        "id": "1"
+                    },
+                    {
+                        "ID": "3",
+                        "user_login": "iqkoadmin",
+                        "id": "3"
+                    },
+                    {
+                        "ID": "2",
+                        "user_login": "qizjadmin",
+                        "id": "2"
+                    }
+                ],
+                "fullHomeUrl": "https:\/\/hauraaqiqah.com",
+                "fullSiteUrl": "https:\/\/hauraaqiqah.com",
+                "uploadPath": "wp-content\/uploads",
+                "fullUploadPath": "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads",
+                "fullUploadSafePath": "\/home\/u1571057\/public_html\/hauraaqiqah.com\/wp-content\/uploads",
+                "fullUploadUrl": "https:\/\/hauraaqiqah.com\/wp-content\/uploads",
+                "filteredPaths": []
+            }
+        ]
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "arch64bit": true,
+            "minMemory": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": false,
+            "securityPlugins": true,
+            "ALL": "Good"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "77.2MB",
+        "Rows": "32,739",
+        "TableCount": 56,
+        "TableList": {
+            "wp_bv_activities_store": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_bv_fw_requests": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_bv_ip_store": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_bv_lp_requests": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_e_events": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_e_submissions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "288KB",
+                "USize": "294912"
+            },
+            "wp_e_submissions_actions_log": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "128KB",
+                "USize": "131072"
+            },
+            "wp_e_submissions_values": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_ju_queue": {
+                "Case": 0,
+                "Rows": "11,859",
+                "Size": "13.2MB",
+                "USize": "13844480"
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "427",
+                "Size": "1.55MB",
+                "USize": "1622016"
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "5,136",
+                "Size": "42.22MB",
+                "USize": "44269568"
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "759",
+                "Size": "13.7MB",
+                "USize": "14368768"
+            },
+            "wp_redirection_404": {
+                "Case": 0,
+                "Rows": "183",
+                "Size": "128KB",
+                "USize": "131072"
+            },
+            "wp_redirection_groups": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_redirection_items": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "112KB",
+                "USize": "114688"
+            },
+            "wp_redirection_logs": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_smush_dir_images": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "23",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "40",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "23",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "55",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_wfblockediplog": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wfblocks7": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_wfconfig": {
+                "Case": 0,
+                "Rows": "263",
+                "Size": "480KB",
+                "USize": "491520"
+            },
+            "wp_wfcrawlers": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wffilechanges": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wffilemods": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wfhits": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_wfhoover": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_wfissues": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": "81920"
+            },
+            "wp_wfknownfilelist": {
+                "Case": 0,
+                "Rows": "13,583",
+                "Size": "3.52MB",
+                "USize": "3686400"
+            },
+            "wp_wflivetraffichuman": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_wflocs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wflogins": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_wfls_2fa_secrets": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_wfls_settings": {
+                "Case": 0,
+                "Rows": "21",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wfnotifications": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wfpendingissues": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": "81920"
+            },
+            "wp_wfreversecache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wfsnipcache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_wfstatus": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_wftrafficrates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wpfm_backup": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wpmf_s3_queue": {
+                "Case": 0,
+                "Rows": "232",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wp_yoast_indexable": {
+                "Case": 0,
+                "Rows": "9",
+                "Size": "112KB",
+                "USize": "114688"
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "Case": 0,
+                "Rows": "7",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp_yoast_migrations": {
+                "Case": 0,
+                "Rows": "23",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp_yoast_primary_term": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "55",
+                "Size": "48KB",
+                "USize": "49152"
+            }
+        },
+        "FilteredTables": []
+    },
+    "Status": 1
+}

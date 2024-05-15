@@ -1,0 +1,12 @@
+[15-Apr-2024 02:59:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[15-Apr-2024 02:59:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[15-Apr-2024 02:59:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/hauraaqiqah.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

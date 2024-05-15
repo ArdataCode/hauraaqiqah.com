@@ -1,0 +1,138 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2023-03-03 23:49:58
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.9.1
+WORDPRESS:	6.1.1
+PHP INFO:	8.1.13 | SAPI: litespeed
+SERVER:		LiteSpeed 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+RUN TYPE:	Schedule
+MEMORY STACK:	87MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 56 | filtered:0 | create:56
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 3
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 3
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 56
+INSERT ROWS TABLE[INDEX:2] wp_bv_activities_store NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:3] wp_bv_fw_requests NUM ROWS: 19
+INSERT ROWS TABLE[INDEX:4] wp_bv_ip_store NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:5] wp_bv_lp_requests NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:6] wp_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wp_comments NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:8] wp_duplicator_pro_entities NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:9] wp_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:10] wp_e_events NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:11] wp_e_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wp_e_submissions_actions_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_e_submissions_values NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wp_ju_queue NUM ROWS: 12126
+INSERT ROWS TABLE[INDEX:15] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:16] wp_options NUM ROWS: 435
+INSERT ROWS TABLE[INDEX:17] wp_postmeta NUM ROWS: 6544
+INSERT ROWS TABLE[INDEX:18] wp_posts NUM ROWS: 853
+INSERT ROWS TABLE[INDEX:19] wp_redirection_404 NUM ROWS: 183
+INSERT ROWS TABLE[INDEX:20] wp_redirection_groups NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:21] wp_redirection_items NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:22] wp_redirection_logs NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:23] wp_smush_dir_images NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:24] wp_termmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:25] wp_terms NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:26] wp_term_relationships NUM ROWS: 40
+INSERT ROWS TABLE[INDEX:27] wp_term_taxonomy NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:28] wp_wfblockediplog NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:29] wp_wfblocks7 NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:30] wp_wfconfig NUM ROWS: 265
+INSERT ROWS TABLE[INDEX:31] wp_wfcrawlers NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:32] wp_wffilechanges NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:33] wp_wffilemods NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:34] wp_wfhits NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:35] wp_wfhoover NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:36] wp_wfissues NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:37] wp_wfknownfilelist NUM ROWS: 13762
+INSERT ROWS TABLE[INDEX:38] wp_wflivetraffichuman NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:39] wp_wflocs NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:40] wp_wflogins NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:41] wp_wfls_2fa_secrets NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:42] wp_wfls_settings NUM ROWS: 21
+INSERT ROWS TABLE[INDEX:43] wp_wfnotifications NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:44] wp_wfpendingissues NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:45] wp_wfreversecache NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:46] wp_wfsnipcache NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:47] wp_wfstatus NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:48] wp_wftrafficrates NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:49] wp_wpfm_backup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:50] wp_wpmf_s3_queue NUM ROWS: 232
+INSERT ROWS TABLE[INDEX:51] wp_yoast_indexable NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:52] wp_yoast_indexable_hierarchy NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:53] wp_yoast_migrations NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:54] wp_yoast_primary_term NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:55] wp_yoast_seo_links NUM ROWS: 55
+SQL FILE SIZE CHECK OK, SIZE: 61792336
+SQL CREATED: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_database.sql
+SQL FILE SIZE: 58.93MB
+SQL FILE TIME: 2023-03-03 23:50:21
+SQL RUNTIME: 22.732 sec.
+MEMORY STACK: 87MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/u1571057/public_html/hauraaqiqah.com
+ARCHIVE FILE: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	235.74MB
+STATS:	Dirs 2,531 | Files 14,376 | Total 16,907
+SQL ADDED: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/u1571057/public_html/hauraaqiqah.com
+ARCHIVE FILE: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	235.74MB
+STATS:	Dirs 2,531 | Files 14,376 | Total 16,907
+SQL ADDED: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/u1571057/public_html/hauraaqiqah.com
+ARCHIVE FILE: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	235.74MB
+STATS:	Dirs 2,531 | Files 14,376 | Total 16,907
+SQL ADDED: 20230304_064950_NewSchedule_hauraaqiqahj_188d0bfff819a4865489_20230303234950_database.sql
